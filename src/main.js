@@ -17,5 +17,4 @@ router.isReady().then(() => {
 
 
 // css imports
-import 'buefy/dist/buefy.css'
 import '@/assets/css/base.css'
